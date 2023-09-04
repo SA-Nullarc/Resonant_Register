@@ -2,7 +2,6 @@ name: Resonance
 channels:
 - conda-forge
 dependencies:
-- python
 - bqplot
 - ipycanvas 
 - ipyleaflet
