@@ -16,3 +16,6 @@ Oh well: see ya,
 *unknown~
 
 ********************
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/SA-Nullarc/Resonant_Register/HEAD
