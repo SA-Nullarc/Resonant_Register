@@ -3,7 +3,7 @@
 Public Notebooks &amp; studies: any private notes will be kept in a private repo'.
 
 Mostly going to be used within mybinder.org: a public(...) cloud docker. Specified 
-for only the uaage of publically distributable JUpyterLab images.
+for only the usage of publically distributable JUpyterLab images.
 
 There is a private one, but currently the only computer I have at the moment is a 
 chromebook. Albeit even worse(...): it's under organizational usage; so they blocked 
