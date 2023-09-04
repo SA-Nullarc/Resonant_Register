@@ -17,5 +17,4 @@ Oh well: see ya,
 
 ********************
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/SA-Nullarc/Resonant_Register/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SA-Nullarc/Resonant_Register/HEAD)
