@@ -66,7 +66,7 @@ jupyterlab
 jupyterlab-night
 jupyterlab-pygments 
 jupyterlab-widgets
-jupyterlab_gi
+jupyterlab_git
 jupyterlab_kernelspy
 jupyterlab_server 
 Mako 
