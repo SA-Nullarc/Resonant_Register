@@ -32,7 +32,7 @@ executing
 fastjsonschema 
 flit_core 
 fqdn
-gitd
+gitdb
 GitPython
 greenlet 
 idna 
